@@ -1,6 +1,7 @@
 var hero = require( '../hero');
 var food = require( '../food');
 var rat = require( '../rat');
+var enemy = require( '../enemy');
 var assert = require( 'chai' ).assert;
 
 describe( 'ratTests', function() {
